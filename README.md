@@ -1,0 +1,2 @@
+# Kotlin-calclator
+Kotlinで計算機を作ってみた。Kotlinの経験はないので所々ChatGPTに聞いてます
